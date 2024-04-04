@@ -1,0 +1,15 @@
+/Users/mac/Desktop/projects/network-programming/02-homework/bin/Debug/net8.0/02-homework
+/Users/mac/Desktop/projects/network-programming/02-homework/bin/Debug/net8.0/02-homework.deps.json
+/Users/mac/Desktop/projects/network-programming/02-homework/bin/Debug/net8.0/02-homework.runtimeconfig.json
+/Users/mac/Desktop/projects/network-programming/02-homework/bin/Debug/net8.0/02-homework.dll
+/Users/mac/Desktop/projects/network-programming/02-homework/bin/Debug/net8.0/02-homework.pdb
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.AssemblyInfoInputs.cache
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.AssemblyInfo.cs
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.sourcelink.json
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.dll
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/refint/02-homework.dll
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.pdb
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/02-homework.genruntimeconfig.cache
+/Users/mac/Desktop/projects/network-programming/02-homework/obj/Debug/net8.0/ref/02-homework.dll
