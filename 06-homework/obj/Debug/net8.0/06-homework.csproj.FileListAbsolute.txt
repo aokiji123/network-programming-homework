@@ -1,0 +1,5 @@
+/Users/mac/Desktop/projects/network-programming/06-homework/obj/Debug/net8.0/06-homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/projects/network-programming/06-homework/obj/Debug/net8.0/06-homework.AssemblyInfoInputs.cache
+/Users/mac/Desktop/projects/network-programming/06-homework/obj/Debug/net8.0/06-homework.AssemblyInfo.cs
+/Users/mac/Desktop/projects/network-programming/06-homework/obj/Debug/net8.0/06-homework.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/projects/network-programming/06-homework/obj/Debug/net8.0/06-homework.sourcelink.json
