@@ -1,0 +1,15 @@
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/bin/Debug/net8.0/Client
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/bin/Debug/net8.0/Client.deps.json
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/bin/Debug/net8.0/Client.dll
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/bin/Debug/net8.0/Client.pdb
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.sourcelink.json
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.dll
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/refint/Client.dll
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.pdb
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/Users/mac/Desktop/projects/network-programming/exam-task/Client/obj/Debug/net8.0/ref/Client.dll
