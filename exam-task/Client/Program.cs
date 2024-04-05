@@ -6,7 +6,7 @@ using System.IO;
 
 class Program
 {
-    static async Task Main(string[] args)
+    static async Task Main()
     {
         bool exit = false;
         while (!exit)
@@ -98,6 +98,12 @@ class Program
         Console.WriteLine("Enter the current file path:");
         string currentPath = Console.ReadLine();
 
+        if (!File.Exists(currentPath))
+        {
+            Console.WriteLine("\nError: File with the current name doesn't exist.\n");
+            return;
+        }
+
         Console.WriteLine("Enter the new file name:");
         string newName = Console.ReadLine();
 
@@ -118,6 +124,12 @@ class Program
     {
         Console.WriteLine("Enter the file path to delete:");
         string filePath = Console.ReadLine();
+
+        if (!File.Exists(filePath))
+        {
+            Console.WriteLine("\nError: File doesn't exist.\n");
+            return;
+        }
 
         Console.WriteLine("Are you sure you want to delete this file? (yes/no)");
         if (Console.ReadLine().Trim().ToLower() == "yes")
